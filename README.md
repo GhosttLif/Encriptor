@@ -1,33 +1,28 @@
-# Encriptador de Texto 
+# Text Encryptor
 
-Link del proyecto al final ⬇
+Project link at the end ⬇
+
+---
+The encryption "keys" used are the following:
+
+- The letter "e" is converted to `"enter"`
+- The letter "i" is converted to `"imes"`
+- The letter "a" is converted to `"ai"`
+- The letter "o" is converted to `"ober"`
+- The letter "u" is converted to `"ufat"`
 
 ---
 
-Este es el primer Challenge del programa ONE - Oracle Next Education, donde se nos solicitó hacer un encriptador de texto, donde se podrá intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+**Requirements:**
+- It must work only with lowercase letters.
+- Letters with accents or special characters must not be used.
+- It must be possible to convert a word to the encrypted version as well as return an encrypted word to its original version.
+
+**For example:** `"gato" => "gaitober"` `"gaitober" => "gato"`
 
 ---
 
-Las "llaves" de encriptación que se utilizaron son las siguiente:  
-  
-  - La letra "e" es convertida para `"enter"`
-  - La letra "i" es convertida para `"imes"`
-  - La letra "a" es convertida para `"ai"`
-  - La letra "o" es convertida para `"ober"`
-  - La letra "u" es convertida para `"ufat"`
-
----
-
-**Requisitos:**  
-  - Debe funcionar solo con letras minúsculas.
-  - No deben ser utilizados letras con acentos ni caracteres especiales.
-  - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.  
-
-**Por ejemplo:** `"gato" => "gaitober"` `"gaitober" => "gato"`
-
----
-
-**Tecnologías utilizadas:**  
+**Technologies used:**  
 <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html" width="50"/>
 <img src="https://img.icons8.com/color/344/css3.png" alt="css" width="50"/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="50"/>
